@@ -41,23 +41,5 @@ df = pd.DataFrame(Flipkart_Data)
 
 print(df)
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+df.to_csv('Laptop.csv')
 
